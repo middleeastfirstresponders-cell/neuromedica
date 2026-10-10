@@ -20,6 +20,7 @@ export default function RootLayout({ children }) {
           href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&display=swap"
           rel="stylesheet"
         />
+        <meta name="facebook-domain-verification" content="jubzbhj8fqqf10px8ipxfcvs3dayem" />
       </head>
       <body>{children}</body>
     </html>
